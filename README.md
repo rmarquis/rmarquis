@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm interested in Data Science and Machine Learning (see [my certificates](https://rmarquis.github.io))
+- 🌱 I'm currently learning more about NLP and GANs
+- 📫 How to reach me: preferably by email
+
+More about me on [my website](https://rmarquis.github.io)!

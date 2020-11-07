@@ -15,8 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm interested in Data Science and Machine Learning (see [my certificates](https://rmarquis.github.io))
+- 🔭 I'm interested in Data Science and Machine Learning (see [specialization certificates](https://rmarquis.github.io))
 - 🌱 I'm currently learning more about NLP and GANs
-- 📫 How to reach me: preferably by email
+- 💬 Ask me about mechanical watches
+- 📫 How to reach me: preferably by [e-mail](mailto:remy.marquis@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am not affiliated with any perfum company
 
 More about me on [my website](https://rmarquis.github.io)!
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Remy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmarquis&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Remy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarquis&hide_border=true" />
+
+</details>

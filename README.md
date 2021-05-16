@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm interested in Data Science and Machine Learning
-- 🌱 See my [ML / DL / AI Engineering / NLP / GANs specialization certificates](https://rmarquis.github.io)
+- 🧭 See my [ML / DL / AI Engineering / NLP / GANs specialization certificates](https://rmarquis.github.io)
+- 🌱 I’m currently learning more about Machine Learning Operations (MLOps)
 - 💬 Ask me about mechanical watches
 - 📫 How to reach me: preferably by [e-mail](mailto:remy.marquis@gmail.com)
 - 😄 Pronouns: He/Him

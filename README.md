@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm interested in Data Science and Machine Learning
 - 🧭 See my [ML / DL / AI Engineering / NLP / GANs specialization certificates](https://rmarquis.github.io)
-- 🌱 I’m currently learning more about Machine Learning Operations (MLOps)
+- 🌱 I'm currently learning more about Machine Learning Operations (MLOps)
+- 🎲 I like Chess and other strategy games
 - 💬 Ask me about mechanical watches
 - 📫 How to reach me: preferably by [e-mail](mailto:remy.marquis@gmail.com)
 - 😄 Pronouns: He/Him
@@ -28,13 +29,7 @@ More about me on [my website](https://rmarquis.github.io)!
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Remy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmarquis&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Remy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarquis&hide_border=true" />
+  ![](https://github.com/rmarquis/github-stats/blob/master/generated/overview.svg)
+   ![](https://github.com/rmarquis/github-stats/blob/master/generated/languages.svg)
 
 </details>

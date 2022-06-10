@@ -30,7 +30,9 @@ More about me on [my website](https://rmarquis.github.io)!
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![](https://github.com/rmarquis/github-stats/blob/master/generated/overview.svg)
-   ![](https://github.com/rmarquis/github-stats/blob/master/generated/languages.svg)
+  ![](https://github.com/rmarquis/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only) 
+  ![](https://github.com/rmarquis/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+  ![](https://github.com/rmarquis/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+  ![](https://github.com/rmarquis/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 </details>

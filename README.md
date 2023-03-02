@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - 🎲 I like Chess and other strategy games
 - 💬 Ask me about mechanical watches
 - 📫 How to reach me: preferably by [e-mail](mailto:remy.marquis@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not affiliated with any perfum company
+- 😄 Fun fact: I am not affiliated with any perfum company
 
 More about me on [my website](https://rmarquis.github.io)!
 

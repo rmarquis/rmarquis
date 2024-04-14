@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am interested in Data Science and Machine Learning
 - 🧭 See my [ML / DL / AI Engineering / NLP / GANs specialization certificates](https://rmarquis.github.io/ct)
-- 🌱 I am currently learning more about Machine Learning Operations (MLOps)
+- 🌱 I am currently learning more about Machine Learning Operations (MLOps) and LLMs
 - 🎯 I am working on strengthening Kotlin skills
 - 🎲 I like Chess and other strategy games
 - 💬 Ask me about mechanical watches

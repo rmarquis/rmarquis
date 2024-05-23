@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I am interested in Data Science and Machine Learning
 - 🧭 See my [ML / DL / AI Engineering / NLP / GANs / LLMs specialization certificates](https://rmarquis.github.io/ct)
-- 🌱 I am currently learning more about the Zig programming language
-- 🎯 I am working on strengthening Kotlin and Compose Multiplatform skills
+- 🌱 I am currently learning more about Zig
+- 🎯 I am working on strengthening Kotlin and Compose skills
 - 🎲 I like Chess and other strategy games
 - 💬 Ask me about mechanical watches
 - 📫 How to reach me: preferably by [e-mail](mailto:remy.marquis@gmail.com)

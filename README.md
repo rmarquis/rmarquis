@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am interested in Data Science and Machine Learning
-- 🧭 See my [ML / DL / AI Engineering / NLP / GANs / LLMs specialization certificates](https://rmarquis.github.io/ct)
-- 🌱 I am currently learning more about Zig
-- 🎯 I am working on strengthening Kotlin and Compose skills
-- 🎨 I am developing [3D experiences](https://threejs-journey.com/certificate/view/40372) with Three.js, Blender and GLSL shaders
-- 🎲 I like Chess and other strategy games
-- 💬 Ask me about mechanical watches
-- 📫 How to reach me: preferably by [e-mail](mailto:remy.marquis@gmail.com)
-- 😄 Fun fact: I am not affiliated with any perfum company
+`$ cat ~/.profile`
 
-More about me on [my website](https://rmarquis.github.io)!
+- 🔭 Interested in Machine Learning & real-time 3D visualization
+- 🧭 Certified in [specializations](https://rmarquis.github.io/ct): AI/ML (NLP, GANs, LLMs) & 3D development
+- 🛠️ Developing with Kotlin & Compose
+- 🎨 Crafting interactive 3D experiences
+- 🌱 Exploring Zig
+- ⚔️️ Enjoying Chess and strategy games
+- ⌚ Discussing mechanical watches
+- 📫 Contact me via [e-mail](mailto:remy.marquis@gmail.com)
+- 😄 Not affiliated to any perfume company
+
+`$ cd ~/rmarquis` → [my website](https://rmarquis.github.io)
 
 <details>
   <summary>:zap: GitHub Stats</summary>

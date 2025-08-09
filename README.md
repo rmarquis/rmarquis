@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 Interested in Machine Learning & real-time 3D visualization
 - 🧭 Certified in [specializations](https://rmarquis.github.io/ct): AI/ML (NLP, GANs, LLMs) & 3D development
-- 🛠️ Developing with Kotlin & Compose
-- 🎨 Crafting interactive 3D experiences
-- 🌱 Exploring Zig
+- 🛠️ Developing with Kotlin and Compose
+- 🌱 Exploring Zig and Jujutsu VCS
 - ⚔️️ Enjoying Chess and strategy games
 - ⌚ Discussing mechanical watches
 - 📫 Contact me via [e-mail](mailto:remy.marquis@gmail.com)
